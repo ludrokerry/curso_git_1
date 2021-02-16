@@ -1,1 +1,2 @@
 d.txt
+node_modules/*     "/* significa que ignora todos arquivos dentro da pasta node_modules"
